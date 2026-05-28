@@ -1,4 +1,4 @@
-* **Họ và tên:** Trần Gia Huy
-* **Email cá nhân đăng ký chương trình:** [trangiahuy623@gmail.com](mailto:trangiahuy623@gmail.com)
-* **GitHub Username:** ColorOfDreams
-* **Discord Username đã tham gia Discord server:** Tuệ kiếm vô song
+* **Họ và tên:** Lê Dương Hiếu
+* **Email cá nhân đăng ký chương trình:** [hieuleduonghy@gmail.com](mailto:hieuleduonghy@gmail.com)
+* **GitHub Username:** LDH-LeHieu18012005
+* **Discord Username đã tham gia Discord server:** orion2k5_16397
